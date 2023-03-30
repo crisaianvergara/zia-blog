@@ -1,0 +1,15 @@
+{
+"title": "Blog 1",
+"image_url": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"content": "Content 1"
+}
+
+
+{
+    "comment_text": "This is a new comment on the post"
+}
+
+
+{
+    "reply_text": "This is a new reply on the comment"
+}
